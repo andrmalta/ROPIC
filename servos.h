@@ -1,12 +1,11 @@
 /*******************************************************************************
  *                              SERVOS CONTROL
  *******************************************************************************
- * Authors:         André Malta
+ * Authors:         AndrÃ© Malta
  * File:            servos.h
  * Dependences:     PIC18x.h
  * Processor:       PIC18
  * Compiler:        MCC18
- * OSCCON:          16Mhz,tcy=0.25us
  * Created on 23 de Junho de 2016
  ******************************************************************************/
 #ifndef SERVOS_H
